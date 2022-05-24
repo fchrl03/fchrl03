@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fachrul Fatahillah</h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fchrl03&label=Profile%20views&color=0e75b6&style=flat" alt="fchrl03" /> </p>
 
