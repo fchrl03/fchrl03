@@ -26,6 +26,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchrl03&show_icons=true&locale=en&layout=compact" alt="fchrl03" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fchrl03&show_icons=true&locale=en" alt="fchrl03" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fchrl03&show_icons=true&locale=en" alt="fchrl03" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fchrl03&" alt="fchrl03" />
