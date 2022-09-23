@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS ,Vue JS and Next JS**
 
-- 🤝 I’m currently building **Catazas Indonesia**
+- 🤝 I’m currently building **Nanoscape Indonesia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fchrl03](https://github.com/fchrl03)
 
